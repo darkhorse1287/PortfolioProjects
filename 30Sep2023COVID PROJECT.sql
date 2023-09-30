@@ -9,6 +9,7 @@ ORDER BY
   3, 
   4;
 --SELECT * FROM [dbo].[CovidVaccinations] ORDER BY 3,4;
+
 -- Select Data that we are going to be using
 Select 
   location, 
